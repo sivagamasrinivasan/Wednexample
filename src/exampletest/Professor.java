@@ -10,4 +10,5 @@ package exampletest;
  */
 public class Professor {
   private int exp;  
+  private String Specializtion;
 }
